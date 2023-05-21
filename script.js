@@ -69,12 +69,6 @@ const CasinoRoyale = new movie( "Casino Royal", "Eon Productions", "PG13");
 
 
 
-
-
-
-
-
-
 //////////////Write a “person” class to hold all the details./////////////
 
 class person {
